@@ -24,19 +24,9 @@ Spring Boot, Spring Security, JWT, Spring Data JPA (Hibernate), MySQL database
  - Amazon RDS
 
 <img width="1164" alt="Screenshot 2023-02-07 at 12 14 09" src="https://user-images.githubusercontent.com/91721899/217247815-203b7bf6-a3a4-42ff-bcce-182415ad3961.png">
+<img width="1022" alt="Screenshot 2023-02-07 at 12 09 37" src="https://user-images.githubusercontent.com/91721899/217247992-d0cf3912-7a94-4dc2-a634-919fc0911edd.png">
+<img width="1037" alt="Screenshot 2023-02-07 at 12 12 54" src="https://user-images.githubusercontent.com/91721899/217248047-973c3315-53a5-4387-98e0-10d49f0f6e30.png">
+<img width="1126" alt="Screenshot 2023-02-07 at 12 13 38" src="https://user-images.githubusercontent.com/91721899/217248088-6d2c5344-96e1-414b-af3b-9b362651658c.png">
 
 
 
-
-### Built With
-
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
-
-* [![Next][Next.js]][Next-url]
-* [![React][React.js]][React-url]
-* [![Vue][Vue.js]][Vue-url]
-* [![Angular][Angular.io]][Angular-url]
-* [![Svelte][Svelte.dev]][Svelte-url]
-* [![Laravel][Laravel.com]][Laravel-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![JQuery][JQuery.com]][JQuery-url]
