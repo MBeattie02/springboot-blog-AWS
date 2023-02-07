@@ -18,7 +18,7 @@ Spring Boot, Spring Security, JWT, Spring Data JPA (Hibernate), MySQL database
 
 
 
-##Deploy Spring Boot Blog App on AWS Cloud
+## Deploy Spring Boot Blog App on AWS Cloud
 
  - AWS Elastic Beanstalk
  - Amazon RDS
